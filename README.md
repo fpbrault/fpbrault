@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Felix Perron-Brault</h1>
-<h3 align="center">A Full-Stack dev from Quebec City</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fpbrault" alt="fpbrault" /></a> </p>
 
@@ -7,7 +6,7 @@
 
 - 🔭 I’m currently working at **Coveo**
 
-- 🌱 I’m currently learning **Nest.js**
+- 🌱 I’m currently learning **Nest.js, Typescript and Kubernetes**
 
 - 💬 Ask me about **react, docker and next.js**
 
