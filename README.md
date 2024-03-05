@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Felix Perron-Brault</h1>
 
-<p align="left"> <a href="https://twitter.com/fpbrault" target="blank"><img src="https://img.shields.io/twitter/follow/fpbrault?logo=twitter&style=for-the-badge" alt="fpbrault" /></a> </p>
-
 - 🔭 I’m currently working at **Coveo**
 
 - 🌱 I’m currently learning **Typescript, Kubernetes and Rust**
