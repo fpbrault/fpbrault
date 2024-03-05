@@ -4,11 +4,11 @@
 
 - 🔭 I’m currently working at **Coveo**
 
-- 🌱 I’m currently learning **Nest.js, Typescript and Kubernetes**
+- 🌱 I’m currently learning **Typescript, Kubernetes and Rust**
 
 - 💬 Ask me about **react, docker and next.js**
 
-- 📫 How to reach me **fpbrault@gmail.com**
+- 📫 How to reach me **felix@fpbrault.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
