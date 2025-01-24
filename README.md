@@ -2,8 +2,6 @@
 
 - 🔭 I’m currently working at **Coveo**
 
-- 🌱 I’m currently learning **Typescript, Kubernetes and Rust**
-
 - 💬 Ask me about **react, docker and next.js**
 
 - 📫 How to reach me **felix@fpbrault.com**
