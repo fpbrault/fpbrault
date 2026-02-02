@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Felix Perron-Brault</h1>
 
-- 🔭 I’m currently working at **Coveo**
-
 - 💬 Ask me about **react, docker and next.js**
 
 - 📫 How to reach me **felix@fpbrault.com**
